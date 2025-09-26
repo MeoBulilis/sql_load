@@ -7,7 +7,7 @@ A big thanks to [Luke Barousse](https://www.youtube.com/@LukeBarousse) for creat
 
 📺 YouTube Video: [SQL for Data Analysts | Full Course](https://www.youtube.com/watch?v=7mz73uXD9DA)  
   
-
+🔍SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
 Guided by Luke Barousse’s video, this project was driven by the goal of navigating the data analyst job market more effectively.  
