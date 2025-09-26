@@ -25,8 +25,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC;
 
-/* TO DO
-Run analysis on the most demanded skills for data analyst jobs
+/* Here are the results of the query:
 
 [
   {
