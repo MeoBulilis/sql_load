@@ -77,7 +77,7 @@ LIMIT 10;
 - Other companies such as **Pinterest**, **Uclahealthcareers**, and **SmartAsset** offer competitive salaries ranging from **$232,000–$205,000**.  
 - The remaining roles cluster between **$180,000–$190,000**, reflecting strong opportunities for senior or principal analyst positions.
 
-![average_salary](assets\average_salary_top_paying_jobs.png)
+![average_salary](assets/average_salary_top_paying_jobs.png)
 *Bar graph visualizing the average salary for the top 10 salaries for data analysts; the query results were exported into a csv file and the graph was generated through excel*
 
 ## Query 2: Skills needed for top paying data analyst jobs
@@ -121,7 +121,7 @@ R appears a few times, mostly in roles tied to statistical analysis and marketin
 
 Specialized tools like Azure, Databricks, and Crystal show up only once, suggesting they are niche requirements depending on company tech stacks.
 
-![skill_count](assets\skill_count_top_paying_jobs.png)
+![skill_count](assets/skill_count_top_paying_jobs.png)
 *Bar graph visualizing the skill count for the top paying jobs for data analysts; the query results were exported into a csv file and the graph was generated through excel.*
 
 ## Query 3: The most in demand skills for data analysts
