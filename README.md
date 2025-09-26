@@ -39,7 +39,7 @@ The project is built on a relational database consisting of four main tables:
 
 These tables are connected through primary and foreign keys to enable efficient querying and analysis of job postings and skill requirements.  
 
-![Database Schema](assets\sql_project_database.png)
+![Database Schema](assets/sql_project_database.png)
 
 
 # The Analysis
@@ -171,6 +171,7 @@ Here are some insights from the most demanded skills for data analyst roles in 2
 | Looker      | 868         |
 | Azure       | 821         |
 | PowerPoint  | 819         |
+
 *Table of the demand for the top 10 skills in data analyst job postings*
 
 ## Query 4: Skills associated with higher salaries 
@@ -230,6 +231,7 @@ Insights:
 | postgresql    | 123,879         |
 | gcp           | 122,500         |
 | microstrategy | 121,619         |
+
 *Table of the top 25 skills with high average salary*
 
 
@@ -293,8 +295,10 @@ LIMIT 25;
 | 92       | spark      | 13           | 99,077         |
 | 13       | c++        | 11           | 98,958         |
 | 186      | sas        | 63           | 98,902         |
-| 61       | sql server |              |                |
+| 61       | sql server | 35           | 97786          |
+| 9        | javascripy | 20           | 97587          |
 
+*Table of the Most optimal skills to learn for Data Analyst*
 
 # What I learned
 Through this tutorial project, I gained valuable experience working with SQL and data analysis. Some of the key takeaways include:
